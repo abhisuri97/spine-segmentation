@@ -1,0 +1,358 @@
+{
+  "description": "",
+  "tags": [],
+  "size": {
+    "height": 384,
+    "width": 384
+  },
+  "objects": [
+    {
+      "description": "",
+      "bitmap": null,
+      "tags": [],
+      "classTitle": "vertebral_bone",
+      "points": {
+        "exterior": [
+          [
+            176,
+            269
+          ],
+          [
+            188,
+            286
+          ],
+          [
+            196,
+            303
+          ],
+          [
+            215,
+            290
+          ],
+          [
+            234,
+            281
+          ],
+          [
+            219,
+            255
+          ],
+          [
+            204,
+            264
+          ]
+        ],
+        "interior": []
+      }
+    },
+    {
+      "description": "",
+      "bitmap": null,
+      "tags": [],
+      "classTitle": "vertebral_bone",
+      "points": {
+        "exterior": [
+          [
+            166,
+            212
+          ],
+          [
+            169,
+            230
+          ],
+          [
+            168,
+            249
+          ],
+          [
+            174,
+            255
+          ],
+          [
+            196,
+            246
+          ],
+          [
+            219,
+            245
+          ],
+          [
+            212,
+            223
+          ],
+          [
+            217,
+            206
+          ],
+          [
+            193,
+            212
+          ]
+        ],
+        "interior": []
+      }
+    },
+    {
+      "description": "",
+      "bitmap": null,
+      "tags": [],
+      "classTitle": "vertebral_bone",
+      "points": {
+        "exterior": [
+          [
+            175,
+            159
+          ],
+          [
+            174,
+            178
+          ],
+          [
+            166,
+            194
+          ],
+          [
+            174,
+            200
+          ],
+          [
+            194,
+            196
+          ],
+          [
+            219,
+            201
+          ],
+          [
+            219,
+            184
+          ],
+          [
+            224,
+            162
+          ],
+          [
+            200,
+            165
+          ]
+        ],
+        "interior": []
+      }
+    },
+    {
+      "description": "",
+      "bitmap": null,
+      "tags": [],
+      "classTitle": "vertebral_bone",
+      "points": {
+        "exterior": [
+          [
+            195,
+            108
+          ],
+          [
+            190,
+            126
+          ],
+          [
+            180,
+            140
+          ],
+          [
+            209,
+            146
+          ],
+          [
+            229,
+            153
+          ],
+          [
+            232,
+            134
+          ],
+          [
+            239,
+            116
+          ],
+          [
+            225,
+            118
+          ],
+          [
+            207,
+            113
+          ]
+        ],
+        "interior": []
+      }
+    },
+    {
+      "description": "",
+      "bitmap": null,
+      "tags": [],
+      "classTitle": "vertebral_bone",
+      "points": {
+        "exterior": [
+          [
+            215,
+            63
+          ],
+          [
+            210,
+            75
+          ],
+          [
+            199,
+            94
+          ],
+          [
+            207,
+            100
+          ],
+          [
+            218,
+            100
+          ],
+          [
+            230,
+            103
+          ],
+          [
+            242,
+            109
+          ],
+          [
+            246,
+            96
+          ],
+          [
+            252,
+            82
+          ],
+          [
+            251,
+            71
+          ],
+          [
+            240,
+            72
+          ],
+          [
+            226,
+            67
+          ]
+        ],
+        "interior": []
+      }
+    },
+    {
+      "description": "",
+      "bitmap": null,
+      "tags": [],
+      "classTitle": "vertebral_bone",
+      "points": {
+        "exterior": [
+          [
+            226,
+            26
+          ],
+          [
+            224,
+            34
+          ],
+          [
+            219,
+            46
+          ],
+          [
+            217,
+            53
+          ],
+          [
+            230,
+            58
+          ],
+          [
+            248,
+            62
+          ],
+          [
+            259,
+            65
+          ],
+          [
+            265,
+            45
+          ],
+          [
+            267,
+            34
+          ],
+          [
+            252,
+            35
+          ],
+          [
+            237,
+            29
+          ]
+        ],
+        "interior": []
+      }
+    },
+    {
+      "description": "",
+      "bitmap": null,
+      "tags": [],
+      "classTitle": "vertebral_bone",
+      "points": {
+        "exterior": [
+          [
+            207,
+            317
+          ],
+          [
+            242,
+            331
+          ],
+          [
+            261,
+            306
+          ],
+          [
+            231,
+            293
+          ]
+        ],
+        "interior": []
+      }
+    },
+    {
+      "description": "",
+      "bitmap": null,
+      "tags": [],
+      "classTitle": "vertebral_bone",
+      "points": {
+        "exterior": [
+          [
+            241,
+            0
+          ],
+          [
+            232,
+            15
+          ],
+          [
+            267,
+            25
+          ],
+          [
+            280,
+            1
+          ]
+        ],
+        "interior": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "description": "",
+  "tags": [],
+  "size": {
+    "height": 256,
+    "width": 256
+  },
+  "objects": [
+    {
+      "description": "",
+      "bitmap": null,
+      "tags": [],
+      "classTitle": "vertebral_bone",
+      "points": {
+        "exterior": [
+          [
+            178,
+            2
+          ],
+          [
+            173,
+            17
+          ],
+          [
+            155,
+            16
+          ],
+          [
+            157,
+            1
+          ]
+        ],
+        "interior": []
+      }
+    },
+    {
+      "description": "",
+      "bitmap": null,
+      "tags": [],
+      "classTitle": "vertebral_bone",
+      "points": {
+        "exterior": [
+          [
+            153,
+            20
+          ],
+          [
+            172,
+            23
+          ],
+          [
+            170,
+            37
+          ],
+          [
+            170,
+            50
+          ],
+          [
+            143,
+            44
+          ],
+          [
+            150,
+            33
+          ]
+        ],
+        "interior": []
+      }
+    },
+    {
+      "description": "",
+      "bitmap": null,
+      "tags": [],
+      "classTitle": "vertebral_bone",
+      "points": {
+        "exterior": [
+          [
+            141,
+            55
+          ],
+          [
+            138,
+            77
+          ],
+          [
+            165,
+            82
+          ],
+          [
+            168,
+            56
+          ],
+          [
+            150,
+            53
+          ],
+          [
+            145,
+            52
+          ]
+        ],
+        "interior": []
+      }
+    },
+    {
+      "description": "",
+      "bitmap": null,
+      "tags": [],
+      "classTitle": "vertebral_bone",
+      "points": {
+        "exterior": [
+          [
+            160,
+            90
+          ],
+          [
+            136,
+            85
+          ],
+          [
+            128,
+            84
+          ],
+          [
+            127,
+            110
+          ],
+          [
+            156,
+            115
+          ]
+        ],
+        "interior": []
+      }
+    },
+    {
+      "description": "",
+      "bitmap": null,
+      "tags": [],
+      "classTitle": "vertebral_bone",
+      "points": {
+        "exterior": [
+          [
+            127,
+            117
+          ],
+          [
+            152,
+            121
+          ],
+          [
+            153,
+            150
+          ],
+          [
+            118,
+            148
+          ]
+        ],
+        "interior": []
+      }
+    },
+    {
+      "description": "",
+      "bitmap": null,
+      "tags": [],
+      "classTitle": "vertebral_bone",
+      "points": {
+        "exterior": [
+          [
+            123,
+            160
+          ],
+          [
+            130,
+            167
+          ],
+          [
+            125,
+            178
+          ],
+          [
+            125,
+            185
+          ],
+          [
+            142,
+            184
+          ],
+          [
+            152,
+            182
+          ],
+          [
+            147,
+            155
+          ]
+        ],
+        "interior": []
+      }
+    },
+    {
+      "description": "",
+      "bitmap": null,
+      "tags": [],
+      "classTitle": "vertebral_bone",
+      "points": {
+        "exterior": [
+          [
+            128,
+            194
+          ],
+          [
+            135,
+            203
+          ],
+          [
+            134,
+            214
+          ],
+          [
+            140,
+            218
+          ],
+          [
+            158,
+            212
+          ],
+          [
+            164,
+            206
+          ],
+          [
+            162,
+            197
+          ],
+          [
+            156,
+            186
+          ],
+          [
+            146,
+            188
+          ]
+        ],
+        "interior": []
+      }
+    }
+  ]
+}

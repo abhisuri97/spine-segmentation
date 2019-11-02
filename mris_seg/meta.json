@@ -1,0 +1,10 @@
+{
+  "classes": [
+    {
+      "title": "vertebral_bone",
+      "shape": "polygon",
+      "color": "#248799"
+    }
+  ],
+  "tags": []
+}
